@@ -10,7 +10,7 @@ I was a kid but now I am an engineer-turned-scientist, researching the topics of
 - Fun fact: the word logic comes from the ancient Greek λόγος (lógos, “speech, reason”)[^3].
 
 
-[^1]: My masters programme is called [Compuational Science](https://rw.ethz.ch/en/ "MSc Comp. Sci."), which is at the intersection of math,physics and computer science.
+[^1]: My masters programme is called [Compuational Science](https://rw.ethz.ch/en/ "MSc Comp. Sci."), which is at the intersection of math, physics and computer science.
 [^2]: [my google scholar profile](https://scholar.google.com/citations?user=c845Pa4AAAAJ&hl=en)
 [^3]: [source](https://en.wiktionary.org/wiki/logic "Wiktionary")
 
